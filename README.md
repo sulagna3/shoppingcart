@@ -1,1 +1,1 @@
-# shoppingcart
+# Skeleton project for Swagger
